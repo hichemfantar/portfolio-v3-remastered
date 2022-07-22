@@ -21,15 +21,15 @@ export default function skills() {
     }
   `);
 
-  const jobsData = data.skills.edges;
+  const skillsData = data.skills.edges;
 
   return (
     <section className="section skills">
       <div className="section__title">Skills</div>
       <div className="section__content">
         <div className="skillz">
-          {jobsData &&
-            jobsData.map(({ node }, i) => {
+          {skillsData &&
+            skillsData.map(({ node }, i) => {
               const { name, used } = node.frontmatter;
               return (
                 <div className="skillz__category" key={i}>

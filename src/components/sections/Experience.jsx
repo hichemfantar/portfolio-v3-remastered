@@ -23,15 +23,15 @@ export default function experience() {
     }
   `);
 
-  const jobsData = data.experience.edges;
+  const experienceData = data.experience.edges;
 
   return (
     <section className="section experience">
       <div className="section__title">Experience</div>
       <div className="section__content">
         <div className="jobs">
-          {jobsData &&
-            jobsData.map(({ node }, i) => {
+          {experienceData &&
+            experienceData.map(({ node }, i) => {
               const { company, url, time, position } = node.frontmatter;
               return (
                 <div className="job" key={i}>

@@ -23,14 +23,14 @@ export default function OtherProjects() {
     }
   `);
 
-  const jobsData = data.otherProjects.edges;
+  const otherProjectsData = data.otherProjects.edges;
 
   return (
     <section className="section other-projects">
       <div className="section__title">Other Projects</div>
       <div className="section__content">
-        {jobsData &&
-          jobsData.map(({ node }, i) => {
+        {otherProjectsData &&
+          otherProjectsData.map(({ node }, i) => {
             const { name, url, description, used } = node.frontmatter;
             return (
               <div className="project" key={i}>

@@ -31,14 +31,14 @@ export default function FeaturedProjects() {
     }
   `);
 
-  const jobsData = data.featuredProjects.edges;
+  const featuredProjectsData = data.featuredProjects.edges;
 
   return (
     <section className="section featured-projects">
       <div className="section__title">Featured Projects</div>
       <div className="section__content">
-        {jobsData &&
-          jobsData.map(({ node }, i) => {
+        {featuredProjectsData &&
+          featuredProjectsData.map(({ node }, i) => {
             const { name, url, description, cover } = node.frontmatter;
             const image = getImage(cover);
             return (
