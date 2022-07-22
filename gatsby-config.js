@@ -31,6 +31,7 @@ module.exports = {
       },
     },
     // `gatsby-plugin-offline`,
+    `gatsby-plugin-remove-serviceworker`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
