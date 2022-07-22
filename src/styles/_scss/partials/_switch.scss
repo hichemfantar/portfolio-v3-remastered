@@ -9,7 +9,8 @@
     top: 10px;
     right: 20px;
   }
-  .sun, .moon {
+  .sun,
+  .moon {
     width: 17px;
     height: 17px;
   }
@@ -29,7 +30,7 @@
       visibility: hidden;
       position: absolute;
       &:checked + label {
-        background: $green;
+        background: $dark-green;
       }
       &:checked + label:after {
         left: calc(100% - 3px);
