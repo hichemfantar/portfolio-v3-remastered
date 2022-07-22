@@ -74,19 +74,20 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 
 ## 🎨 Color Reference
 
-| Color     | Hex                                                                |
-| --------- | ------------------------------------------------------------------ |
-| Night     | ![#171c28](https://via.placeholder.com/10/171c28?text=+) `#171c28` |
-| Black     | ![#36363c](https://via.placeholder.com/10/36363c?text=+) `#36363c` |
-| Dark Grey | ![#444452](https://via.placeholder.com/10/444452?text=+) `#444452` |
-| Grey      | ![#777777](https://via.placeholder.com/10/777777?text=+) `#777777` |
-| Blue      | ![#007bff](https://via.placeholder.com/10/007bff?text=+) `#007bff` |
-| Slate     | ![#afafbf](https://via.placeholder.com/10/afafbf?text=+) `#afafbf` |
-| Off White | ![#e7e7e7](https://via.placeholder.com/10/e7e7e7?text=+) `#e7e7e7` |
-| White     | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) `#ffffff` |
-| Green     | ![#bae67e](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` |
-| Purple    | ![#7d0ce8](https://via.placeholder.com/10/7d0ce8?text=+) `#7d0ce8` |
-| Red       | ![#ff0000](https://via.placeholder.com/10/ff0000?text=+) `#ff0000` |
-| Orange    | ![#e8850c](https://via.placeholder.com/10/e8850c?text=+) `#e8850c` |
-| Yellow    | ![#ffdc00](https://via.placeholder.com/10/ffdc00?text=+) `#ffdc00` |
-| Accent    | ![#ffcc66](https://via.placeholder.com/10/ffcc66?text=+) `#ffcc66` |
+| Color      | Hex                                                                |
+| ---------- | ------------------------------------------------------------------ |
+| Night      | ![#171c28](https://via.placeholder.com/10/171c28?text=+) `#171c28` |
+| Black      | ![#36363c](https://via.placeholder.com/10/36363c?text=+) `#36363c` |
+| Dark Grey  | ![#444452](https://via.placeholder.com/10/444452?text=+) `#444452` |
+| Grey       | ![#777777](https://via.placeholder.com/10/777777?text=+) `#777777` |
+| Blue       | ![#007bff](https://via.placeholder.com/10/007bff?text=+) `#007bff` |
+| Slate      | ![#afafbf](https://via.placeholder.com/10/afafbf?text=+) `#afafbf` |
+| Off White  | ![#e7e7e7](https://via.placeholder.com/10/e7e7e7?text=+) `#e7e7e7` |
+| White      | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) `#ffffff` |
+| Green      | ![#bae67e](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` |
+| Dark Green | ![#95ba62](https://via.placeholder.com/10/95ba62?text=+) `#95ba62` |
+| Purple     | ![#7d0ce8](https://via.placeholder.com/10/7d0ce8?text=+) `#7d0ce8` |
+| Red        | ![#ff0000](https://via.placeholder.com/10/ff0000?text=+) `#ff0000` |
+| Orange     | ![#e8850c](https://via.placeholder.com/10/e8850c?text=+) `#e8850c` |
+| Yellow     | ![#ffdc00](https://via.placeholder.com/10/ffdc00?text=+) `#ffdc00` |
+| Accent     | ![#ffcc66](https://via.placeholder.com/10/ffcc66?text=+) `#ffcc66` |
