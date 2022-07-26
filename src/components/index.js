@@ -1,5 +1,3 @@
-import '@styles/_scss/main.scss';
-
 export { default as Head } from './Head';
 export { default as Layout } from './Layout';
 

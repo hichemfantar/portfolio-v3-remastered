@@ -1,3 +1,4 @@
+import '@styles/_scss/main.scss';
 import PropTypes from 'prop-types';
 import React from 'react';
 import {
