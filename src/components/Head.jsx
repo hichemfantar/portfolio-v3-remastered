@@ -56,12 +56,6 @@ const Head = ({ title, description, image }) => {
 
       {/* <meta name="google-site-verification" content="DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk" /> */}
 
-      <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"
-        type="text/javascript"
-        charset="utf-8"
-        defer></script>
-      <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js" defer></script>
       <script src={`/js/main.js`} type="text/javascript" charset="utf-8" defer></script>
     </Helmet>
   );
